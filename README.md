@@ -20,6 +20,8 @@ Once the red 'generate password' button is pressed the first prompt shows on the
 ![number input error](./assets/screenshots/error2.png)
 ![printed random password](./assets/screenshots/finalPrint.png)
 
+[Deployed Link](https://garrethil.github.io/random-password-generator/)
+
 ## Credits
 
 N/A
